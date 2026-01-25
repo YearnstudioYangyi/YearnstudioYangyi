@@ -1,4 +1,4 @@
-# YearnstudioYangyi  
+<img width="713" height="241" alt="image" src="https://github.com/user-attachments/assets/3e25fed7-8c15-400f-857c-635dbe730a81" /># YearnstudioYangyi  
 [Yearnstudio](https://www.yearnstudio.cn) 阳毅
 ## 使用的语言
 - C#/Unity
@@ -11,6 +11,7 @@
 ---
 ## 最近的项目
 - ShangCloud
-- 灵息AI相关
 ---
 ## 保持热爱，奔赴山海
+![](http://contribute.yangyiit.top)
+> 加上Gitlab后的贡献墙
