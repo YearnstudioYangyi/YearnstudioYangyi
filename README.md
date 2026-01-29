@@ -5,7 +5,7 @@
 ### 使用的工具
 ![framework](https://skillicons.dev/icons?i=windows,linux,github,gitlab,git,sqlite)
 ### 贡献墙
-![](http://contribute.yangyiit.top)
+![](https://contribute.yangyiit.top)
 > 加上Gitlab后的贡献墙(动态更新)
 
 ~哎呀我真是服了我在学校我怎么commit代码~
@@ -23,6 +23,3 @@
 ### 项目履历
 - ShangCloud
 - Yearnstudio资源站(已关站)
-
-### 寄语
-后续的日子还请多多指教，我还有很多不足，没有理由停下脚步
