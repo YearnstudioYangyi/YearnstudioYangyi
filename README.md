@@ -3,7 +3,7 @@
 ### 使用的语言
 ![language](https://skillicons.dev/icons?i=c,cpp,python,golang,html,css,javascript)
 ### 使用的工具
-![framework](https://skillicons.dev/icons?i=windows,linux,github,gitlab,git,sqlite)
+![tools](https://skillicons.dev/icons?i=windows,linux,github,gitlab,git,sqlite,docker,vim,vscode,cloudflare)
 ### 贡献墙
 ![](https://contribute.yangyiit.top)
 > 加上Gitlab后的贡献墙(动态更新)
