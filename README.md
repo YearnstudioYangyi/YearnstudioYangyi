@@ -1,7 +1,7 @@
 ## 阳毅 | YearnstudioYangyi  
 *保持热爱，奔赴山海*
 ### 使用的语言
-![language](https://skillicons.dev/icons?i=c,cpp,python,golang,html,css,javascript,typescript,vue)
+![language](https://skillicons.dev/icons?i=c,cpp,python,golang,html,css,javascript,typescript,vue,rust)
 ### 使用的工具
 ![tools](https://skillicons.dev/icons?i=windows,linux,github,gitlab,git,sqlite,mysql,postgresql,docker,vim,vscode,cloudflare,webpack,vite)
 ### 贡献墙
